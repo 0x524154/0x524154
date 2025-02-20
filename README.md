@@ -12,11 +12,11 @@
 <div align="center" style="background: #000; padding: 20px; border-radius: 15px; box-shadow: 0 0 30px rgba(75,0,130,0.8), 0 0 40px rgba(199,21,133,0.8); margin: 20px 0;">
   <h2 style="color: #C71585; text-shadow: 0 0 15px #C71585; font-family: 'Courier New', monospace;"><b>Technical Arsenal</b></h2>
   <p style="color: #4B0082; font-family: Arial, sans-serif; font-size: 16px; text-shadow: 0 0 15px rgba(75,0,130,0.8);">
-    <b>x64 Assembly:</b> Handcrafting machine code for bare-metal performance optimization, leveraging SIMD (AVX-512), custom interrupt handlers, and low-level system programming.<br>
-    <b>C++:</b> Architecting low-latency systems with C++17/20, STL metaprogramming, RAII, and memory management via custom allocators.<br>
-    <b>Python:</b> Designing scalable data pipelines, ML model integrations (TensorFlow, PyTorch), and async frameworks (FastAPI, asyncio).<br>
-    <b>Web Development:</b> Full-stack mastery with React (Next.js), Node.js, WebAssembly, WebGL, and backend orchestration via Kubernetes/Docker.<br>
-    <b>Cybersecurity & Penetration Testing:</b> Conducting advanced penetration tests, exploit development, reverse engineering, and securing systems against zero-day vulnerabilities. Proficient in tools like Metasploit, Burp Suite, and custom exploit frameworks.<br>
+    <b>x64 Assembly:</b> Crafting high-performance machine code for optimal bare-metal execution, utilizing SIMD (AVX-512) for parallel processing, custom interrupt handling, and advanced low-level system programming techniques.<br>
+    <b>C++:</b> Engineering low-latency systems with C++17/20, leveraging STL metaprogramming, RAII principles, and efficient memory management through custom allocators for robust and scalable applications.<br>
+    <b>Python:</b> Developing scalable data pipelines and integrating machine learning models using TensorFlow and PyTorch. Expertise in asynchronous programming frameworks like FastAPI and asyncio for high-performance, concurrent applications.<br>
+    <b>Web Development:</b> Full-stack expertise with React (Next.js) and Node.js, enhancing web applications with WebAssembly and WebGL for high-performance graphics and computations. Proficient in container orchestration using Kubernetes and Docker for seamless deployment and scaling.<br>
+    <b>Cybersecurity & Penetration Testing:</b> Executing advanced penetration tests, developing custom exploits, and reverse engineering to identify and mitigate zero-day vulnerabilities. Skilled in using tools like Metasploit and Burp Suite, along with custom frameworks for comprehensive security assessments.<br>
   </p>
 </div>
 
