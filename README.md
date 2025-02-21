@@ -1,7 +1,6 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff5cc6,100:ffa1c3&text=R%20%20A%20%20T&textBg=false&fontColor=ffffff&stroke=ffffff&strokeWidth=3&section=header&reversal=false&fontSize=150" alt="RAT Header"></p>
-<div>
-  ![](https://komarev.com/ghpvc/?username=0x524154&color=dc143c)
-</div>
+
+![](https://komarev.com/ghpvc/?username=0x524154&color=dc143c)
 
 <div align="center" style="background: url('https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') no-repeat center center/cover; padding: 20px; border-radius: 15px; box-shadow: 0 0 30px rgba(75,0,130,0.8), 0 0 40px rgba(199,21,133,0.8); margin: 20px 0;">
   <h1 style="color: #C71585; text-shadow: 2px 2px 15px #C71585, -2px -2px 15px #4B0082; font-family: 'Courier New', monospace;">RAT: i sometimes make rat noises lol</h1>
